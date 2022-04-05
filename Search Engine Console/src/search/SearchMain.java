@@ -230,7 +230,7 @@ public class SearchMain
     public static void main(String[] args) {
 
     	Crawler.mainc();
-//    	HtmlText.mainht();
+    	HtmlText.mainht();
     	String searchQuery = "";
         
         System.out.println("Enter your search here: ");
